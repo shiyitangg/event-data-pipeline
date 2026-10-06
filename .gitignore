@@ -1,0 +1,9 @@
+data/raw/*
+data/lake/
+data/faulty/
+data/*.duckdb
+*.duckdb
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
